@@ -1,3 +1,14 @@
-h1{
-    color: blue;
+html{
+    background-image: url(./weather/w3.webp);
+    background-image:no-repeat;
+    background-image:cover;
+    background-image:"Poppins";
+}
+.ww{
+    display:flex;
+    flex-direction:column;
+    min-height:100px;
+    width: 100px;
+    background-image:linear-gradient(to bottom,rgba(56, 52, 52, 0.15),rgba(15, 224, 25, 0.8));
+
 }
